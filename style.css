@@ -1,0 +1,61 @@
+
+header {
+    background-color: rgb(0, 255, 255);
+    font-family: "Comic Sans MS";
+    font-size: 100px;
+}
+
+h2 {
+    font-size: 125px;
+}
+
+body {
+    background-color: rgba(90, 45, 250, 0.63);
+}
+
+.liked {
+    font-size: 100px;
+    margin: 0;
+    padding-top: 5px ;
+    padding-left: 100px;
+    
+    background-color: rgba(51, 248, 77, 0.329);
+}
+
+.toys {
+    padding-top: 5px ;
+    padding-left: 35px;
+    margin-bottom: 25px;
+    background-color: rgba(255, 7, 193, 0.445);
+}
+.toys p {
+    background-position: center top;
+    width: 30%;
+    display: inline-block;
+    /*display: flex;
+    justify-content: space-around;*/
+    font-size: 100px;
+    /*background-repeat: no-repeat;*/
+    
+}
+
+.toys-wheel {
+    background-image: url("img/колёсико.jpeg");
+    background-size: 300px 1000px;
+    padding-top: 60px;
+
+}
+
+.toys-ring {
+    
+    background-image: url("img/колечко.jpeg");
+    background-size: 500px 1000px;
+    padding-top: 60px;
+}
+
+.toys-stick {
+    padding-top: 60px;
+    background-image: url("img/палочка.jpeg");
+    background-size: 800px 10000px;
+
+}
