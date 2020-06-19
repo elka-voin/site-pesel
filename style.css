@@ -39,23 +39,15 @@ body {
     
 }
 
-.toys-wheel {
-    background-image: url("img/колёсико.jpeg");
-    background-size: 300px 1000px;
-    padding-top: 60px;
+.site-footer {
+    font-size: 100px;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: flex-end;
+    color: #000000;
+  }
 
-}
-
-.toys-ring {
-    
-    background-image: url("img/колечко.jpeg");
-    background-size: 500px 1000px;
-    padding-top: 60px;
-}
-
-.toys-stick {
-    padding-top: 60px;
-    background-image: url("img/палочка.jpeg");
-    background-size: 800px 10000px;
-
-}
+  figure {
+    font-size: 150px;
+    display: inline-block;
+  }
